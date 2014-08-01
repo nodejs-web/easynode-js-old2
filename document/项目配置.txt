@@ -1,0 +1,27 @@
+一、技术架构（初步）
+
+    前端：HTML,CSS,JavaScript   库：jQuery  bootstrap
+    后台：Node.js            express(web框架)
+    数据库：MongoDB（资源）  redis(缓存)(暂时不用)   mysql(基础数据)（暂时不用）
+
+
+二、团队人员(拟)
+
+    组织：赵茂鑫
+    设计：赵茂鑫  王盈
+    编程：赵茂鑫  郭延思
+    部署：赵茂鑫  李旭旭
+    推广：赵茂鑫  Node.js 专业群
+    测试：赵茂鑫  毕冰冰
+    顾问：陈焕新  张长瑞  崇培祥  
+
+    APP:  赵茂鑫  刘俸伯  关亚文
+
+三、设备配置
+    web服务器： 
+           硬件:
+                CPU               RAM             ROM
+
+           软件：Linux操作系统  Node.js  系统监控软件等
+
+    数据库： 暂时与web服同机
